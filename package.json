@@ -1,0 +1,15 @@
+{
+    "name": "message-logger",
+    "version": "1.0.0",
+    "description": "A Discord bot that automatically logs messages from a specified channel to a JSON file. Easily configurable and customizable for your server's needs.",
+    "main": "bot.js",
+    "scripts": {
+      "start": "node bot.js"
+    },
+    "dependencies": {
+      "discord.js": "^13.1.0"
+    },
+    "author": "Wick",
+    "license": "MIT"
+  }
+  
